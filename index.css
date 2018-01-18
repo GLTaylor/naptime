@@ -1,5 +1,7 @@
 body {
-font: Courier; 
 background-color: purple;
 color: white;
+}
+p {
+  font-family: Courier;
 }
