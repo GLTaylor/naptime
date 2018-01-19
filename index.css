@@ -5,3 +5,10 @@ color: white;
 h1, h2, h3, p {
   font-family: verdana;
 }
+ul {
+  padding: 22px;
+  margin: 20px;
+}
+li {
+  float:center;
+}
