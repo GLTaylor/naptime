@@ -5,14 +5,14 @@ color: #A9A9A9;
 h1, h2, h3, p {
   font-family: verdana;
 }
-ul bar {
+ul#bar {
   list-style-type: none;
   padding: 0;
   margin: 20;
   overflow: hidden;
   background-color: #111111
 }
-li bar {
+ul#bar li {
   float:left;
   display: block;
   text-align: center;
