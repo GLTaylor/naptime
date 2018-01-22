@@ -8,13 +8,14 @@ ul#bar {
   padding: 30;
   margin: 30;
   overflow: hidden;
-  background-color: #111111
+  background-color: #555555;
+  color: #AAAAAA
 }
 ul#bar li  {
   float:left;
   display: block;
   text-align: center;
-  padding: 40;
+  padding-left: 120;
   margin: 40;
   text-decoration: none;
 }
