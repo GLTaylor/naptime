@@ -10,11 +10,12 @@ ul#bar {
   overflow: hidden;
   background-color: #111111
 }
-ul#bar li {
+ul#bar li  {
   float:left;
   display: block;
   text-align: center;
   padding: 40;
+  margine: 40;
   text-decoration: none;
 }
 
