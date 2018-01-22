@@ -14,9 +14,14 @@ ul#bar {
 ul#bar li  {
   float:left;
   display: block;
-  text-align: center;
+  text-align: none;
   padding-left: 120;
   margin: 40;
   text-decoration: none;
+}
+ul#thoughts li {
+  padding: 400;
+  border: 300;
+  margin: 100;
 }
 
