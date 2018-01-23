@@ -3,22 +3,16 @@ html {
   color: #595959;
   font-family: verdana;
 }
-ul#bar {
+#bar div {
   list-style-type: none;
   padding: 30;
   margin: 30;
   overflow: hidden;
   background-color: #555555;
-  color: #AAAAAA
-}
-ul#bar li  {
-  float:left;
-  display: block;
-  text-align: none;
-  padding: 120;
-  margin: 400;
-  border: 120;
-  text-decoration: underline;
+  color: #AAAAAA;
+  float: left;
+  display: inline-block;
+  text-decoration: underline; 
 }
 ul#thoughts li {
   padding: 400;
