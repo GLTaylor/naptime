@@ -17,7 +17,8 @@ ul#bar li  {
   text-align: none;
   padding: 120;
   margin: 400;
-  text-decoration: none;
+  border: 120;
+  text-decoration: underline;
 }
 ul#thoughts li {
   padding: 400;
