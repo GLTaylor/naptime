@@ -15,13 +15,13 @@ ul#bar li  {
   float:left;
   display: block;
   text-align: none;
-  padding-left: 120;
-  margin: 40;
+  padding: 120;
+  margin: 400;
   text-decoration: none;
 }
 ul#thoughts li {
   padding: 400;
-  border: 300;
-  margin: 100;
+  border: 500;
+  margin: 1000;
 }
 
