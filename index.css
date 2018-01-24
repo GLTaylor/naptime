@@ -24,6 +24,7 @@ ul#bar a {
     width: 12;
     height: 4;
     line-height: 4;
+    margin: 0px 10px;
     text-align: center;
 }
 
