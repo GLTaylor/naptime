@@ -5,27 +5,32 @@ html {
 }
 ul#bar {
     list-style-type: none;
+    overflow:hidden;
     background-color: #012e33;
+    width: 375px;
+    margin: 0px auto;
 }
 
 ul#bar li {
-    float: left;
-  
+    
+    float:left;
 }
 
 ul#bar a {
+  	
     display: block;
+    padding: 11px 40px;
     color: white;
     text-decoration: none;
-    text-align: center;
+    text-align: center;  
 }
 
 ul#bar li a:hover {
-    background-color: #35838d;
+    background-color:#d64d55;
 }
 ul#thoughts li {
+  list-style-type: none;
   padding: 40;
   border: 50;
   margin: 200;
 }
-
