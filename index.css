@@ -12,7 +12,7 @@ ul#bar {
 }
 
 li#bar {
-    float: left;
+    display: inline;
 }
 
 li#bar a {
