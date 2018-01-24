@@ -7,15 +7,17 @@ ul#bar {
     list-style-type: none;
     margin: 50;
     padding: 50;
+    border-right: 1000;
+    border-left: 1000;
     background-color: #012e33;
 }
 
 ul#bar li {
     float: left;
     text-align: center;
-    padding: 20px;
-    border: 40px;
-    margin: 1000px;
+    padding: 20;
+    border: 40;
+    margin: 1000;
   
 }
 
