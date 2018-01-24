@@ -11,11 +11,11 @@ ul#bar {
     background-color: #012e33;
 }
 
-li#bar {
+ul#bar li {
     display: inline;
 }
 
-li#bar a {
+ul#bar a {
     display: block;
     color: white;
     text-align: center;
@@ -23,7 +23,7 @@ li#bar a {
     text-decoration: none;
 }
 
-li#bar a:hover {
+ul#bar li a:hover {
     background-color: #35838d;
 }
 ul#thoughts li {
