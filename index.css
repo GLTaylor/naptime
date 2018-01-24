@@ -9,9 +9,9 @@ ul#bar {
 }
 
 ul#bar li {
-    width: 120;
-    height: 40;
-    margin: 0px 4px;
+    width: 12;
+    height: 4;
+    margin: 0px 1px;
     float: left;
   
 }
@@ -20,9 +20,9 @@ ul#bar a {
     display: block;
     color: white;
     text-decoration: none;
-    width: 120;
-    height: 40;
-    line-height: 40;
+    width: 12;
+    height: 4;
+    line-height: 4;
     text-align: center;
 }
 
@@ -30,8 +30,8 @@ ul#bar li a:hover {
     background-color: #35838d;
 }
 ul#thoughts li {
-  padding: 400;
-  border: 500;
-  margin: 2000;
+  padding: 40;
+  border: 50;
+  margin: 200;
 }
 
