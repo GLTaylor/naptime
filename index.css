@@ -11,8 +11,9 @@ ul#bar {
 ul#bar li {
     width: 12;
     height: 4;
-    margin: 0px 1px;
+    margin: 0px 10px;
     float: left;
+    border: 2px solid #000;
   
 }
 
