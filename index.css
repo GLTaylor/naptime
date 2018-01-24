@@ -7,12 +7,11 @@ ul#bar {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
     background-color: #012e33;
 }
 
 ul#bar li {
-    display: inline;
+    float: left;
 }
 
 ul#bar a {
@@ -29,6 +28,6 @@ ul#bar li a:hover {
 ul#thoughts li {
   padding: 400;
   border: 500;
-  margin: 1000;
+  margin: 2000;
 }
 
