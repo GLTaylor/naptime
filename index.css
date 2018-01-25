@@ -7,13 +7,14 @@ ul#bar {
     list-style-type: none;
     overflow:hidden;
     background-color: #012e33;
-    width: 375px;
-    margin: 0px auto;
-}
+    width: 800px;
+    margin: auto;
+} 
 
 ul#bar li {
     
     float:left;
+    margin-left: 95px
 }
 
 ul#bar a {
@@ -29,8 +30,13 @@ ul#bar li a:hover {
     background-color:#d64d55;
 }
 ul#thoughts li {
-  list-style-type: none;
   padding: 40;
   border: 50;
   margin: 200;
+}
+ul#thoughts {
+  width: 500px;
+  margin: auto;
+  text-align: left;
+  list-style-type: disc; 
 }
