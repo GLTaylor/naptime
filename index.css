@@ -3,10 +3,12 @@ html {
   color: #595959;
   font-family: verdana;
 }
+nav {
+  background-color: #012e33;
+}
 ul#bar {
     list-style-type: none;
     overflow:hidden;
-    background-color: #012e33;
     width: 800px;
     margin: auto;
 } 
