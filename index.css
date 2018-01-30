@@ -39,5 +39,5 @@ ul#thoughts li {
 ul#thoughts {
   list-style: square inside;
   margin: auto;
-  text-align: left;
+  text-align: center;
 }
