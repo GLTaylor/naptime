@@ -37,8 +37,7 @@ ul#thoughts li {
   margin: 200;
 }
 ul#thoughts {
-  width: 500px;
+  list-style: square inside;
   margin: auto;
   text-align: left;
-  list-style-type: disc; 
 }
