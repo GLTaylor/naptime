@@ -11,6 +11,9 @@ h1#me a {
   color: white;
   text-decoration: none;
 }
+p {
+  padding: 60px; 
+}
 ul#bar {
     list-style-type: none;
     overflow:hidden;
