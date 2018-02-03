@@ -11,6 +11,9 @@ h1#me a {
   color: white;
   text-decoration: none;
 }
+h1#me a:hover {
+ color: #960f16; 
+}
 p {
   padding: 60px; 
 }
