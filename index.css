@@ -6,6 +6,11 @@ html {
 nav {
   background-color: #012e33;
 }
+h1#me a {
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
 ul#bar {
     list-style-type: none;
     overflow:hidden;
