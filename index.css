@@ -49,3 +49,7 @@ ul#thoughts {
   margin: auto;
   text-align: center;
 }
+p.introduction {
+  width: 50%;
+  text-align: center; 
+}
