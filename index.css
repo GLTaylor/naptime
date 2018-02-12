@@ -51,7 +51,7 @@ ul#thoughts {
 }
 div.introduction {
   width: 200px;
-  padding: 50px; 
+  margin: 50px; 
   line-height: 20px;
   display: inline-block;
 }
