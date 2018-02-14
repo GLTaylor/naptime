@@ -50,7 +50,7 @@ ul#thoughts {
   text-align: center;
 }
 div.introduction, p.introduction {
-  margin-bottom: 30px; 
+  margin: 0px 50px 30px 50px;
   display: block;
 }
 p.blogthing {
