@@ -56,7 +56,7 @@ div.introduction, p.introduction {
 .blogthing {
   margin: 0px 50px 30px 50px;
 }
-li.bar last-child {
+li.bar:nth-of-type(3) {
  position: relative; 
 }
 ul.StuffDropDown {
@@ -64,7 +64,16 @@ ul.StuffDropDown {
   display: none;
   top: 100%;
   left: 0;
+  margin: 0;
   list-style-type: none;
+}
+ul.StuffDropDown li {
+  background-color: purple; 
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: block;
+  width: 100%;
 }
 li.bar:hover ul.StuffDropDown {
   display: block; 
