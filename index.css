@@ -56,7 +56,7 @@ div.introduction, p.introduction {
 .blogthing {
   margin: 0px 50px 30px 50px;
 }
-li.bar:nth-of-type(3) {
+li.stuffbar:nth-of-type(3) {
  position: relative; 
 }
 ul.StuffDropDown {
@@ -75,7 +75,7 @@ ul.StuffDropDown li {
   display: block;
   width: 100%;
 }
-li.bar:hover ul.StuffDropDown {
+li.stuffbar:hover ul.StuffDropDown {
   display: block; 
 }
   
