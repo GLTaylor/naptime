@@ -5,6 +5,7 @@ html {
 }
 nav {
   background-color: #012e33;
+  height: 50px;
 }
 h1#me a {
   text-align: center;
@@ -24,7 +25,8 @@ ul#bar {
 ul#bar li {
     
     float:left;
-    margin-left: 95px
+    margin-left: 95px;
+    position: relative;
 }
 
 ul#bar a {
@@ -56,24 +58,24 @@ div.introduction, p.introduction {
 .blogthing {
   margin: 0px 50px 30px 50px;
 }
-li.stuffbar:nth-of-type(3) {
- position: relative; 
-}
 ul.StuffDropDown {
   position: absolute;
   display: none;
   top: 100%;
-  left: 0;
+  width: 100%;
   margin: 0;
   list-style-type: none;
 }
 ul.StuffDropDown li {
   background-color: purple; 
   color: white;
-  padding: 10px 20px;
+  padding: 5px;
   text-decoration: none;
   display: block;
   width: 100%;
+}
+ul.StuffDropDown li:hover {
+  background-color: grey;
 }
 li.stuffbar:hover ul.StuffDropDown {
   display: block; 
