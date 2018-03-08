@@ -4,8 +4,8 @@ html {
   font-family: verdana;
 }
 nav {
-  background-color: #012e33;
   height: 41px;
+   background-color: #012e33;
 }
 h1#me a {
   text-align: center;
@@ -17,17 +17,16 @@ h1#me a:hover {
 }
 ul#bar {
     list-style-type: none;
-    overflow:hidden;
+    overflow: hidden;
     width: 800px;
     margin: auto;
-    height: 250px;
+    height: 250px
 } 
 
 ul#bar li {
-    
     float:left;
-    margin-left: 95px;
     position: relative;
+    margin-left: 95px;
 }
 
 ul#bar a {
@@ -59,13 +58,14 @@ div.introduction, p.introduction {
 .blogthing {
   margin: 0px 50px 30px 50px;
 }
+
 ul.StuffDropDown {
-  position: absolute;
-  display: none;
-  top: 100%;
-  width: 100%;
-  margin: 0;
-  list-style-type: none;
+ position: absolute;
+ display: none;
+ width: 100%;
+ margin: 0;
+ top: 100%;
+
 }
 ul.StuffDropDown li {
   background-color: purple; 
@@ -74,11 +74,13 @@ ul.StuffDropDown li {
   text-decoration: none;
   display: block;
   width: 100%;
-  margin-let: 0px;
+  margin-left: 0px;
+
 }
 ul.StuffDropDown li:hover {
   background-color: grey;
 }
+
 li.stuffbar:hover ul.StuffDropDown {
   display: block; 
 }
