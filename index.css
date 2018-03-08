@@ -20,6 +20,7 @@ ul#bar {
     overflow:hidden;
     width: 800px;
     margin: auto;
+    height: 250px;
 } 
 
 ul#bar li {
@@ -73,6 +74,7 @@ ul.StuffDropDown li {
   text-decoration: none;
   display: block;
   width: 100%;
+  margin-let: 0px;
 }
 ul.StuffDropDown li:hover {
   background-color: grey;
