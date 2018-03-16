@@ -86,6 +86,6 @@ li.stuffbar:hover ul.StuffDropDown {
 }
   
 div#shadowed {
-  text-shadow: 1px 2px 2ps #000;
+  text-shadow: 1px 2px 2px #000;
   text-color: white;
 }
